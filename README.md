@@ -9,7 +9,7 @@ This repository includes **DDPM implementation** , **Training pipeline on CelebA
 - Please check `unet.py` to see full details
 ---
 ## Dataset:
-- **CelebA** - dataset was selected due to its rich annotation of facial attributes (e.g., smiling, wearing glasses), which is crucial for experiments involving the manipulation and extraction of these features within the VAE's latent space [CelebA Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
+- **CelebA** [CelebA Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
 ---
 
 ##  Goal:
