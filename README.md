@@ -3,7 +3,7 @@ This repository includes **DDPM implementation** , **Training pipeline on CelebA
 ---
 
 ## Model
-- **DDPM with UNet Backbone **:
+### DDPM with UNet Backbone:
 - Inspired by Vanilla Unet : [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597) (combined with MultiHeadAttention blocks)
 - Implemented to generate (32x32 RGB images or 64x64 RGB images) (However there is a space for improvement to upgrade model to work better on 64x64 or larger images)
 - Please check `unet.py` to see full details
